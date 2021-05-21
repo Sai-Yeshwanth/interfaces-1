@@ -9,7 +9,8 @@ class B implements A
 		System.out.println("Hello im implemented");
 	}
 }
-class Jala {
+class Jala 
+{
 	public void show()
 	{
 		System.out.println("Im definition of abstact method");
@@ -20,3 +21,4 @@ class Jala {
 		
 	}
 }
+
